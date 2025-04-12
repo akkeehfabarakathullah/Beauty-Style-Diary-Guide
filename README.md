@@ -1,6 +1,7 @@
 ⚡ Beauty & Style Diary Guide
 
-Overview
+Overview:-
+
 This is a modern and minimal boilerplate built with React, TypeScript, Vite, and Tailwind CSS, aimed at fast development with clean architecture. It includes essential tools and configurations to get started with frontend projects efficiently.
 ________________________________________
 
@@ -50,7 +51,8 @@ The application now provides a more comprehensive solution for tracking beauty a
 •	Icon Library: Lucide icons pre-configured.
 •	UUID Support: Generate unique identifiers with the uuid package.
 ________________________________________
-Technologies Used
+Technologies Used:-
+
 •	Vite – Frontend build tool
 •	React 18 – UI library
 •	TypeScript – Static typing
@@ -59,8 +61,8 @@ Technologies Used
 •	Lucide React – Icon library
 •	UUID – For unique IDs
 ________________________________________
-Project Structure
-Bash
+Project Structure:-
+
 project/
 ├── index.html               # Main HTML file
 ├── src/                     # Source code
@@ -72,7 +74,9 @@ project/
 ├── tsconfig.json            # TypeScript config
 └── package.json             # Project metadata and dependencies
 ________________________________________
-Setup and Installation
+
+Setup and Installation:-
+
 Prerequisites
 •	Node.js v16 or higher
 •	npm or yarn installed
@@ -83,7 +87,9 @@ Installation Steps
 4.	Start the development server: npm run dev
 5.	Visit the app in your browser at: http://localhost:5173
 ________________________________________
-Available Commands
+
+Available Commands:-
+
 Command	Description
 npm run dev	Start local dev server
 npm run build	Build for production
