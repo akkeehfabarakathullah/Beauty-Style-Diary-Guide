@@ -83,7 +83,7 @@ Prerequisites
 Installation Steps
 1.	Clone or download the repository.
 2.	Open the project directory in your terminal.
-3.	Install dependencies: npm install
+3.	Install dependencies: npm install and then run npm install vite --save-dev 
 4.	Start the development server: npm run dev
 5.	Visit the app in your browser at: http://localhost:5173
 ________________________________________
@@ -96,3 +96,5 @@ npm run build	Build for production
 npm run preview	Preview production build locally
 npm run lint	Run ESLint for code quality
 
+
+Made with ❤️ by akkeehfa barakathullah
