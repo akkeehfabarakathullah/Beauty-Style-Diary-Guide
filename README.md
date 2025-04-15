@@ -2,7 +2,6 @@
 
 A sleek, modern, and minimal diary tracker for all things beauty and fashion. Built with React, TypeScript, Vite, and Tailwind CSS – this template provides an efficient starting point to log and manage your skincare and fashion routines.
 
-![Beauty Diary Preview](https://images.unsplash.com/photo-1532634896-26909d0d4b94?auto=format&fit=crop&q=80&w=1200)
 
 ## ✨ Features
 
